@@ -1,0 +1,19 @@
+body {
+    background: url(https://petnet-wp.s3.amazonaws.com/wp-content/uploads/2014/10/141021-Cat-on-Computer-L.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.login { 
+	height:110px;
+	width:190px;
+	margin:auto;
+	border:1px #CCC solid;
+	padding:10px;
+}
+
+.login input { 
+	padding:5px;
+	margin:5px
+ }
